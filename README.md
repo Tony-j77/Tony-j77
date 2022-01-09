@@ -4,3 +4,4 @@
 
 ### Hello there!
 
+![Visitor Count](https://profile-counter.glitch.me/{Tony-j77}/count.svg)
