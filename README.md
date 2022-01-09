@@ -4,4 +4,4 @@
 
 ### Hello there!
 
-![Visitor Count](https://profile-counter.glitch.me/{adke}/count.svg)
+
