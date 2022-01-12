@@ -15,5 +15,3 @@ I am currently a first year student at the University of British Columbia curren
 💻 I have listed some of the projects that I have done onto this portfolio. I hope you enjoy it and see, some of my skills and talents in programming and software development!
 
 📫 If there are any questions or concerns, you can reach me on at my email: Tonyjiang5678@gmail.com
-
-Thank you for spending the time in looking at my work! I greatly appreciate your support! 😄
