@@ -4,7 +4,7 @@
 
 ### Hello there!
 
-#### I made this github repo to store and display my projects in a central space.
+#### I made this github repo to store and display my projects in one place.
 
 I am currently a first year student at the University of British Columbia currently studying engineering. 
 
