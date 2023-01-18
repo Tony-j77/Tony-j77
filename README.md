@@ -3,3 +3,5 @@
 </p>
 
 ### Welcome!
+
+My testimony of "Striving to learn, eager to build epic things and having fun in the process 🤠".
